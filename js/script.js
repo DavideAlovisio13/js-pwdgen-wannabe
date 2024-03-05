@@ -17,4 +17,4 @@ let userColor = prompt("...e il tuo colore preferito?");
 console.log(userFirstName)
 console.log(userLastName)
 console.log(userColor)
-document.getElementById('container').innerHTML = `${userFirstName} ${userLastName} ${userColor}`
+document.getElementById('container').innerHTML = `${userFirstName}${userLastName}${userColor}`
